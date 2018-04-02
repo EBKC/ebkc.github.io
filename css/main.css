@@ -1,14 +1,3 @@
-@font-face {
-    font-family: sourcesans;
-    src: url(SourceSansProExtraLight.otf);
-}
-
-@font-face {
-    font-family: sourcesans;
-    font-weight: bold;
-    src: url(SourceSansProLight.otf);
-}
-
 body {
 	font-family: arial;
 }
